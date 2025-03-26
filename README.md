@@ -1,6 +1,6 @@
-## Hi there 👋
-##I am Selva Sahayam Jeniston
-##i am software developer
+## Hi there 👋 
+I am Selva Sahayam Jeniston 
+I am software developer
 
 
 <!--
